@@ -9,4 +9,5 @@ Details:
 4. There will also be "Find The Narwhal".
     1. There will be a total of 4 cards.
     2. The narwhal will be hidden under a square card.
-    3. If you find the narwhal there will be a message saying "You Win"
+    3. If you find the narwhal there will be a message saying "You Win".
+    4. You only get 2 turns [dun dun dunnnnnnnnn]
